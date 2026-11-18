@@ -1,6 +1,10 @@
 # The World in One Day — Tuesday 17 November 2026
 
-A one-page newspaper front page summing up the world's news of
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/casg7322-ui/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/casg7322-ui/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+An entry for the [make.fun news-image-20261117 bounty](https://make.fun/bounty/news-image-20261117): a one-page newspaper front page summing up the world's news of
 Tuesday 17 November 2026, drawn entirely in code.
 
 ## Run
@@ -45,3 +49,5 @@ single strong accent (red) and navy.
 - Competition: `news-image-20261117` (make.fun) — "Sum up 17 November's
   world news in one image". Entry $0, deadline 19 Nov 2026 07:00 WIB.
 - License: MIT. Claim file `.makefun/owner.json` names the bounty wallet.
+
+Entered on [make.fun](https://make.fun/?ref=e0ar5hn0).
